@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi, I’m Rahul Kumar — a final-year B.Tech (CSE–IoT) student at MIET College, affiliated with AKTU (Batch: 2022–2026), and a passionate Java Developer. I specialize in backend development using Java and Spring Boot, and love building high-performance, scalable, and maintainable web applications. With a strong foundation in computer science and hands-on experience across multiple projects, I’m constantly working to improve my coding standards, explore advanced development tools, and stay job-ready for the ever-evolving tech landscape.Currently, I’m focused on full-stack Java development, API design, and deploying real-world applications that solve real problems.
 
-# 💻 Resume 👇
+# 📄 Resume👇
 
-📄 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rahulxeel.in/rahulxeel.pdf)
+ [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rahulxeel.in/rahulxeel.pdf)
 
 # 💻 Tech Stack
 
