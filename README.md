@@ -5,9 +5,11 @@ Hi, I’m Rahul Kumar — a final-year B.Tech (CSE–IoT) student at MIET Colleg
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulxeel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulxeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulxeel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rahulxeel) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahulxeel) 
 
-# 💻 Tech Stack
+# 💻 Resume PDF
 
 📄 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rahulxeel.in/rahulxeel.pdf)
+
+# 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-%231572B6.svg?style=for-the-badge&logo=openjdk&logoColor=white)
