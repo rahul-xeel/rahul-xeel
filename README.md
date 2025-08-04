@@ -3,7 +3,7 @@ Hi, I’m Rahul Kumar — a final-year B.Tech (CSE–IoT) student at MIET Colleg
 
 # 📄 Resume👇
 
- [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rahulxeel.in/rahulxeel.pdf)
+ [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rahul.xeel.in/rahulxeel.pdf)
 
 # 💻 Tech Stack
 
