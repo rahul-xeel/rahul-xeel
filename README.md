@@ -1,10 +1,6 @@
 # 💫 About Me:
 Hi, I’m Rahul Kumar — a final-year B.Tech (CSE–IoT) student at MIET College, affiliated with AKTU (Batch: 2022–2026), and a passionate Java Developer. I specialize in backend development using Java and Spring Boot, and love building high-performance, scalable, and maintainable web applications. With a strong foundation in computer science and hands-on experience across multiple projects, I’m constantly working to improve my coding standards, explore advanced development tools, and stay job-ready for the ever-evolving tech landscape.Currently, I’m focused on full-stack Java development, API design, and deploying real-world applications that solve real problems.
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulxeel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulxeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulxeel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rahulxeel) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahulxeel) 
-
 # 💻 Resume PDF
 
 📄 [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://rahulxeel.in/rahulxeel.pdf)
@@ -53,6 +49,11 @@ Hi, I’m Rahul Kumar — a final-year B.Tech (CSE–IoT) student at MIET Colleg
 ![](https://github-readme-stats.vercel.app/api?username=rahulxeel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahulxeel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxeel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahulxeel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulxeel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulxeel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rahulxeel) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahulxeel) 
+
 
 ### ✍️ Today Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
